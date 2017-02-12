@@ -1,0 +1,21 @@
+- menu_name: "服务"
+
+- name: "房屋住宅设计"
+  url: "/house-design/"
+  title: "温哥华住宅设计"
+
+- name: "商业店铺设计"
+  url: "/commercial-design/"
+  title: "商铺办公等设计"
+
+- name: "室内设计"
+  url: "/interior-design/"
+  title: "室内装潢设计"
+
+- name: "政府审批申请"
+  url: ""
+  title: "政府各类许可证申请"
+
+- name: "施工监理"
+  url: ""
+  title: "现场施工监理"

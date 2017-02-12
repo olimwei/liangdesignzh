@@ -1,0 +1,46 @@
+- title: 首页
+  url: "/"
+  side: left
+
+- title: 工程
+  url: ""
+  side: left
+  dropdown:
+  - title: "住宅设计"
+    url: "/house-design/"
+  - title: "室内设计"
+    url: "/interior-design/"
+  - title: "商业设计"
+    url: "/commercial-design/"
+
+- title: "联系"
+  url: "/contact/"
+  side: left
+
+- title: 博客
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "存档博客"
+    url: "/blog/archive/"
+
+- title: "致电：778-300-1388"
+  url:
+  side: right
+
+# - title: "搜索"
+#   url: "/search/"
+#   side: right
+
+- title: "English"
+  url: http://en.liangdesign.com/
+  side: right
+
+# - title: Documentation
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"
