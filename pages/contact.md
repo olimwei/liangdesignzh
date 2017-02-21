@@ -13,7 +13,7 @@ permalink: "/contact/"
 	<h3>良明设计事务所</h3><br>
 	210-1669 w 3rd Ave<br>
 	Vancouver BC V6J1K1<br>
-	Tel: 778-300-1388 <br>
+	Tel: 778-300-2111 <br>
 	www.liangdesign.com
 </p>
 
