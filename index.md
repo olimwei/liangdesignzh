@@ -35,7 +35,7 @@ widget3:
 callforaction:
   url: http://liangdesign.com
 #  url: https://tinyletter.com/feeling-responsive
-  text: ---------- 咨询请拨打中文热线：778-300-1388 ----------
+  text: ---------- 咨询请拨打中文热线：778-300-2111 ----------
   style: alert
 permalink: /
 #
