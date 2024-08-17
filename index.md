@@ -11,7 +11,7 @@ widget1:
   title: "住宅设计"
   url: '/house-design'
   image: widget-1-302x400.jpg
-  text: '<em>明设计事务所</em> 为大温地区客户量身定制属于您自己的梦想家园。'
+  text: '<em>良设计事务所</em> 为大温地区客户量身定制属于您自己的梦想家园。'
 widget2:
   title: "室内设计"
   url: '/interior-design'
