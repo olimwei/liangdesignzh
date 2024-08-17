@@ -23,31 +23,31 @@ comments: false
 show_meta: true
 ---
 
-{% include image.html url="http://cn.liangdesign.com/uploads/1/0/5/3/10538073/3520350_orig.jpg" description="" %}
+{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/3520350_orig.jpg" description="" %}
 
 由“一颗种子”设计公司设计的"狭窄激情“住宅入选2013年度温哥华现代住宅。在33宽标准狭长地块演绎现代风格。
 
-{% include image.html url="http://cn.liangdesign.com/uploads/1/0/5/3/10538073/1493479_orig.jpg" description="" %}
+{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/1493479_orig.jpg" description="" %}
 
 鲍尔飞利浦设计的西22街住宅也入选。也是一块33x122标准地快
 
-{% include image.html url="http://cn.liangdesign.com/uploads/1/0/5/3/10538073/6050926_orig.jpg" description="" %}
+{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/6050926_orig.jpg" description="" %}
 
 西20街一处住宅入选。方寸之间见天地。
 
-{% include image.html url="http://cn.liangdesign.com/uploads/1/0/5/3/10538073/4938054_orig.jpg" description="" %}
+{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/4938054_orig.jpg" description="" %}
 
 温哥华西区灰岬地一处住宅入选
 
-{% include image.html url="http://cn.liangdesign.com/uploads/1/0/5/3/10538073/1561986_orig.jpg" description="" %}
+{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/1561986_orig.jpg" description="" %}
 
 yeltown一处公寓入选。
 
-{% include image.html url="http://cn.liangdesign.com/uploads/1/0/5/3/10538073/2810183_orig.jpg" description="" %}
+{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/2810183_orig.jpg" description="" %}
 
 北温哥华一处改建住宅也入选。
 
-{% include image.html url="http://cn.liangdesign.com/uploads/1/0/5/3/10538073/2183760_orig.jpg" description="" %}
+{% include image.html url="http://cliangdesign.olim.ca/uploads/1/0/5/3/10538073/2183760_orig.jpg" description="" %}
 
 <p>西温哥华山顶一3500尺住宅入选。</p>
 更详尽的介绍会逐步推出，敬请期待。
