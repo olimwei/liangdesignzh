@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: '良明设计事务所'
+title: '良设计事务所'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: '设计引领生活'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»良明设计事务所 - 本事务所成员受过专业而正统的建筑设计培训，有多年在本地大型西人设计事务所工作经验，竭诚为您提供专业的建筑室内外设计服务。'
+description: '»良设计事务所 - 本事务所成员受过专业而正统的建筑设计培训，有多年在本地大型西人设计事务所工作经验，竭诚为您提供专业的建筑室内外设计服务。'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>网站由<a href="http://mkzg.com/">olim</a>建立并维护的。'
+credits: '<p>网站由<a href="http://olim.ca/">olim</a>建立并维护的。'
 
 # Main author of the website
 # See > authors.yml
-author: 良明
+author: 良
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://zh.liangdesign.com'
+url: 'https://olim.ca/liangdesignzh/'
 baseurl:
 
 # This is for the editing function in _/includes/improve_content
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: 良明     # Default author for pages
+      author: 良     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: ture
-      author: 良明     # Default author for posts
+      author: 良     # Default author for posts
 
 
 
