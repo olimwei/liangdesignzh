@@ -23,31 +23,31 @@ comments: false
 show_meta: true
 ---
 
-{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/217954886.png" description="温哥华住宅设计_现代西海岸风格_主入口" %}
+{% include image.html url="http://liangdesign.olim.ca/images217954886.png" description="温哥华住宅设计_现代西海岸风格_主入口" %}
 
 外立面。蝶式屋顶造型，大坡度屋顶适应温哥华地区多雨天气，一组牌廊引导至主入口，玻璃，实木，石材等材质对比，营造现代时尚风格。
 
-{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/436869834.png" description="温哥华住宅设计_现代西海岸风格_客厅" %}
+{% include image.html url="http://liangdesign.olim.ca/images/436869834.png" description="温哥华住宅设计_现代西海岸风格_客厅" %}
 
 大玻璃采光挑高室内空间
 
-{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/612645434.png" description="温哥华住宅设计_现代西海岸风格_后院" %}
+{% include image.html url="http://liangdesign.olim.ca/images/612645434.png" description="温哥华住宅设计_现代西海岸风格_后院" %}
 
 丰富体块组合，典雅配色，传统材料也能创造现代感
 
-{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/132274228.png" description="温哥华住宅设计_现代西海岸风格_楼梯" %}
+{% include image.html url="http://liangdesign.olim.ca/images/132274228.png" description="温哥华住宅设计_现代西海岸风格_楼梯" %}
 
 合理利用楼梯下空间，给家居带来勃勃生机
 
-{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/426934093.png" description="温哥华住宅设计_现代西海岸风格_入口" %}
+{% include image.html url="http://liangdesign.olim.ca/images/426934093.png" description="温哥华住宅设计_现代西海岸风格_入口" %}
 
 庭院布置点面结合。仿佛一只蝴蝶在花园中飞舞。
 
-{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/239779509.png" description="温哥华住宅设计_现代西海岸风格_室内" %}
+{% include image.html url="http://liangdesign.olim.ca/images/239779509.png" description="温哥华住宅设计_现代西海岸风格_室内" %}
 
 简洁不是简单
 
-{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/23845253.png" description="温哥华住宅设计_现代西海岸风格_洗手间" %}
+{% include image.html url="http://liangdesign.olim.ca/images/23845253.png" description="温哥华住宅设计_现代西海岸风格_洗手间" %}
 
 对现代住宅的室内室外造型和空间的探索，虽然耗费精力，却也乐在其中。
 期待下一个机会。
