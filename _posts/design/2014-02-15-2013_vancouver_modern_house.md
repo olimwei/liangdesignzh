@@ -47,7 +47,7 @@ yeltown一处公寓入选。
 
 北温哥华一处改建住宅也入选。
 
-{% include image.html url="http://cliangdesign.olim.ca/uploads/1/0/5/3/10538073/2183760_orig.jpg" description="" %}
+{% include image.html url="http://liangdesign.olim.ca/uploads/1/0/5/3/10538073/2183760_orig.jpg" description="" %}
 
 <p>西温哥华山顶一3500尺住宅入选。</p>
 更详尽的介绍会逐步推出，敬请期待。
